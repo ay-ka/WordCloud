@@ -10,8 +10,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/ay-ka/WordCloud">
-    <img style="float:left" src="images/wordcloud.jpg" alt="wordcloud" width="300" height="300">
-    <img src="images/wordcloud.png" alt="wordcloud" width="300" height="300">
+    <img style="float:left" src="images/wordcloud.jpg" alt="wordcloud" width="400" height="300">
+    <img src="images/wordcloud.png" alt="wordcloud" width="400" height="300">
   </a>
   <h4 align="center">visual representation of words used to highlight popular words and phrases based on frequency and relevance</h4>
 </div>

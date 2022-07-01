@@ -10,13 +10,11 @@
 <br />
 <div align="center">
   <a href="https://github.com/ay-ka/WordCloud">
-    <img style="float:left" src="images/wordcloud.jpg" alt="wordcloud" width="300" height="300">
-    <img src="images/wordcloud.png" alt="wordcloud" width="300" height="300">
+    <img style="float:left" src="images/wordcloud.jpg" alt="wordcloud" width="500" height="300">
+    <img src="images/wordcloud.png" alt="wordcloud" width="500" height="300">
   </a>
-  <h3 align="center">visual representation of words used to highlight popular words and phrases based on frequency and relevance</h3>
+  <h4 align="center">visual representation of words used to highlight popular words and phrases based on frequency and relevance</h4>
 </div>
-
-<h3>***important: (this project mainly developed for persian data but with selecting proper english font and by adding proper stopwords, it will work for english data too)</h3>
 
 <br />
 <br />
@@ -53,6 +51,9 @@
 </div>
   
 A word cloud (also known as a tag cloud) is a visual representation of words. Cloud creators are used to highlight popular words and phrases based on frequency and relevance. They provide you with quick and simple visual insights that can lead to more in-depth analyses.
+
+<h6>(*** important: the project mainly developed for persian words but with selecting proper english font & adding proper stopwords, it works for          english data too)</h6>
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

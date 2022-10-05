@@ -72,7 +72,7 @@ this section explain instructions which should be followed to setting up the pro
       <li>enter a (chat\channel\group) in your telegram. on the right corner of the page, there is menu; open it</li>
       <li>on the opened menu, click on export chat history</li>
       <li>on the newely opened menu, click on export</li>
-      <li>after finishing download, replace it with cs_stack</li>
+      <li>after finishing download, replace it with data.json</li>
     </ol>
   </li>
   <li>inside data directory, there is file named <b>font.ttf</b> which is used initially as a base font, it can be replaced by any other font file with .ttf format after cloning the repo</li>
